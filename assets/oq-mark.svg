@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320" role="img" aria-labelledby="title desc">
+  <title id="title">OQ Developer monogram</title>
+  <desc id="desc">A geometric OQ monogram in neon green and electric cyan on a graphite background.</desc>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#39D98A"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="320" height="320" rx="42" fill="#080D13"/>
+  <rect x="12" y="12" width="296" height="296" rx="34" fill="none" stroke="#1D2A36" stroke-width="2"/>
+  <path d="M160 42 264 102 264 218 160 278 56 218 56 102Z" fill="none" stroke="#243544" stroke-width="2"/>
+  <circle cx="140" cy="145" r="66" fill="none" stroke="url(#g)" stroke-width="18" filter="url(#glow)"/>
+  <path d="M178 190 226 238" fill="none" stroke="#22D3EE" stroke-width="18" stroke-linecap="round" filter="url(#glow)"/>
+  <path d="M193 122 235 122 235 202 193 202" fill="none" stroke="#39D98A" stroke-width="14" stroke-linecap="square"/>
+  <circle cx="235" cy="122" r="7" fill="#22D3EE"/>
+  <circle cx="193" cy="202" r="7" fill="#39D98A"/>
+  <path d="M42 160H66M254 160H278M160 42V62M160 258V278" stroke="#314657" stroke-width="3" stroke-linecap="round"/>
+</svg>
