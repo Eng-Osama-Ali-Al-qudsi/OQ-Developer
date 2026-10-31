@@ -14,17 +14,23 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Eng-Osama-Ali-Al-qudsi">
-    <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=39D98A" alt="GitHub profile" />
+  <a href="https://github.com/Eng-Osama-Ali-Al-qudsi/" title="Open GitHub profile">
+    <img src="https://img.shields.io/badge/GITHUB-VISIT_PROFILE-101827?style=for-the-badge&logo=github&logoColor=39D98A" alt="GitHub profile" />
   </a>
-  <a href="https://linkedin.com/in/engosamaali7">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/eng-osama-ali-4773b3347?utm_source=share_via&utm_content=profile&utm_medium=member_android" title="Connect on LinkedIn">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-101827?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn profile" />
   </a>
-  <a href="mailto:engosamaali7@proton.me">
-    <img src="https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=protonmail&logoColor=39D98A" alt="Email" />
+  <a href="https://wa.me/967780155801" title="Chat on WhatsApp">
+    <img src="https://img.shields.io/badge/WHATSAPP-%2B967_780_155_801-101827?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp +967 780 155 801" />
   </a>
-  <a href="https://t.me/engosamaali7">
-    <img src="https://img.shields.io/badge/Telegram-Message-111827?style=for-the-badge&logo=telegram&logoColor=22D3EE" alt="Telegram" />
+  <a href="mailto:engosamaali7@gmail.com" title="Send email">
+    <img src="https://img.shields.io/badge/EMAIL-ENGOSAMAALI7%40GMAIL.COM-101827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email engosamaali7@gmail.com" />
+  </a>
+  <a href="https://t.me/OSAMAHWHW" title="Message on Telegram">
+    <img src="https://img.shields.io/badge/TELEGRAM-%40OSAMAHWHW-101827?style=for-the-badge&logo=telegram&logoColor=22D3EE" alt="Telegram @OSAMAHWHW" />
+  </a>
+  <a href="https://www.facebook.com/share/1CEkEFaJ8X/" title="Open Facebook page">
+    <img src="https://img.shields.io/badge/FACEBOOK-VISIT_PAGE-101827?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook page" />
   </a>
 </p>
 
@@ -39,22 +45,77 @@ I'm an **Information Technology student from Yemen**, interested in building sec
 > **Build with intent. Engineer with security in mind. Keep learning.**
 
 <p align="center">
-  <img src="./assets/oq-mark.svg" width="104" alt="OQ monogram" />
+  <img src="./assets/oq-logo.jpg" width="136" alt="OQ Developer eagle shield logo" />
 </p>
 
 ## 02 / TECHNICAL EXPERTISE
 
 **OQ focus domains:** Software Engineering · Web Development · Mobile App Development · Artificial Intelligence · Cybersecurity · Open Source · Automation · Developer Tools.
 
-<sub>These are the brand's focus and growth domains, not a claim of equal proficiency in every area.</sub>
+<sub>These are the brand's focus and growth domains, not a claim of equal proficiency in every area. Select a card to explore a relevant learning resource.</sub>
 
-| Focus | Direction |
-|---|---|
-| **Software Development** | Building secure and scalable applications |
-| **Cybersecurity** | Ethical hacking and penetration-testing learning path |
-| **Artificial Intelligence** | Exploring AI-driven threat detection |
-| **Cloud Technologies** | Learning cloud platforms and cloud security |
-| **Open Source** | Interested in contributing to developer tools and community projects |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://skills.github.com/">
+        <img src="https://img.shields.io/badge/01-SOFTWARE_DEVELOPMENT-101827?style=for-the-badge&logo=github&logoColor=39D98A" alt="Software Development" />
+      </a>
+      <br />
+      <strong>Engineering & Building</strong><br />
+      <sub>Building secure and scalable applications.</sub><br />
+      <a href="https://skills.github.com/">Explore learning resources ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://owasp.org/www-project-top-ten/">
+        <img src="https://img.shields.io/badge/02-CYBERSECURITY-101827?style=for-the-badge&logo=owasp&logoColor=39D98A" alt="Cybersecurity" />
+      </a>
+      <br />
+      <strong>Security Mindset</strong><br />
+      <sub>Ethical hacking and penetration-testing learning path.</sub><br />
+      <a href="https://owasp.org/www-project-top-ten/">Explore OWASP ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://ai.google.dev/">
+        <img src="https://img.shields.io/badge/03-ARTIFICIAL_INTELLIGENCE-101827?style=for-the-badge&logo=google&logoColor=22D3EE" alt="Artificial Intelligence" />
+      </a>
+      <br />
+      <strong>Intelligent Systems</strong><br />
+      <sub>Exploring AI-driven threat detection.</sub><br />
+      <a href="https://ai.google.dev/">Explore AI resources ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://aws.amazon.com/what-is-cloud-computing/">
+        <img src="https://img.shields.io/badge/04-CLOUD_TECHNOLOGIES-101827?style=for-the-badge&logo=amazonaws&logoColor=22D3EE" alt="Cloud Technologies" />
+      </a>
+      <br />
+      <strong>Cloud Foundations</strong><br />
+      <sub>Learning cloud platforms and cloud security.</sub><br />
+      <a href="https://aws.amazon.com/what-is-cloud-computing/">Explore cloud concepts ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://opensource.guide/">
+        <img src="https://img.shields.io/badge/05-OPEN_SOURCE-101827?style=for-the-badge&logo=github&logoColor=39D98A" alt="Open Source" />
+      </a>
+      <br />
+      <strong>Community & Collaboration</strong><br />
+      <sub>Interested in contributing to developer tools and community projects.</sub><br />
+      <a href="https://opensource.guide/">Explore open-source guide ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://docs.github.com/en/actions">
+        <img src="https://img.shields.io/badge/06-AUTOMATION_&_TOOLS-101827?style=for-the-badge&logo=githubactions&logoColor=22D3EE" alt="Automation and Developer Tools" />
+      </a>
+      <br />
+      <strong>Automation & Developer Tools</strong><br />
+      <sub>Exploring workflows and tools that improve development processes.</sub><br />
+      <a href="https://docs.github.com/en/actions">Explore GitHub Actions ↗</a>
+    </td>
+  </tr>
+</table>
 
 ## 03 / TECHNOLOGY STACK
 
@@ -62,11 +123,35 @@ The technologies below are carried over from the supplied profile README. They a
 
 ### Programming Languages
 
-![PHP](https://img.shields.io/badge/PHP-111827?style=flat-square&logo=php&logoColor=39D98A) ![Java](https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=39D98A) ![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=39D98A) ![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=39D98A) ![C++](https://img.shields.io/badge/C%2B%2B-111827?style=flat-square&logo=cplusplus&logoColor=39D98A) ![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=39D98A) ![Shell Script](https://img.shields.io/badge/Shell%20Script-111827?style=flat-square&logo=gnubash&logoColor=39D98A)
+<sub>SELECT A LANGUAGE · EACH BADGE OPENS ITS DOCUMENTATION</sub>
 
-### Frameworks & Libraries
+<p>
+  <a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP documentation" /></a>
+  <a href="https://dev.java/"><img src="https://img.shields.io/badge/JAVA-111827?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java documentation" /></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/PYTHON-111827?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python documentation" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JAVASCRIPT-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript documentation" /></a>
+  <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%2B%2B-111827?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++ documentation" /></a>
+  <a href="https://www.typescriptlang.org/docs/"><img src="https://img.shields.io/badge/TYPESCRIPT-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript documentation" /></a>
+  <a href="https://dart.dev/"><img src="https://img.shields.io/badge/DART-111827?style=for-the-badge&logo=dart&logoColor=00C8FF" alt="Dart documentation" /></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/SHELL_SCRIPT-111827?style=for-the-badge&logo=gnubash&logoColor=39D98A" alt="Shell scripting documentation" /></a>
+</p>
 
-![Laravel](https://img.shields.io/badge/Laravel-111827?style=flat-square&logo=laravel&logoColor=39D98A) ![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=39D98A) ![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=39D98A) ![Django](https://img.shields.io/badge/Django-111827?style=flat-square&logo=django&logoColor=39D98A) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-111827?style=flat-square&logo=spring&logoColor=39D98A) ![Bootstrap](https://img.shields.io/badge/Bootstrap-111827?style=flat-square&logo=bootstrap&logoColor=39D98A) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-111827?style=flat-square&logo=tailwindcss&logoColor=39D98A)
+### Frameworks, Libraries & Runtime
+
+<sub>FRAMEWORKS AND RUNTIMES · SELECT A BADGE TO OPEN ITS DOCUMENTATION</sub>
+
+<p>
+  <a href="https://laravel.com/docs"><img src="https://img.shields.io/badge/LARAVEL-111827?style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="Laravel documentation" /></a>
+  <a href="https://react.dev/"><img src="https://img.shields.io/badge/REACT-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React documentation" /></a>
+  <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/FLUTTER-111827?style=for-the-badge&logo=flutter&logoColor=54C5F8" alt="Flutter documentation" /></a>
+  <a href="https://docs.djangoproject.com/"><img src="https://img.shields.io/badge/DJANGO-111827?style=for-the-badge&logo=django&logoColor=092E20" alt="Django documentation" /></a>
+  <a href="https://nodejs.org/en/docs"><img src="https://img.shields.io/badge/NODE.JS-111827?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js documentation" /></a>
+  <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/SPRING_BOOT-111827?style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="Spring Boot documentation" /></a>
+  <a href="https://getbootstrap.com/docs/"><img src="https://img.shields.io/badge/BOOTSTRAP-111827?style=for-the-badge&logo=bootstrap&logoColor=7952B3" alt="Bootstrap documentation" /></a>
+  <a href="https://tailwindcss.com/docs"><img src="https://img.shields.io/badge/TAILWIND_CSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS documentation" /></a>
+</p>
+
+<sub>Dart is listed as a programming language; Flutter and Django are listed with frameworks.</sub>
 
 ### Databases
 
@@ -86,34 +171,52 @@ The technologies below are carried over from the supplied profile README. They a
 
 ## 04 / FEATURED PROJECTS
 
-The following repositories were named in the original profile file. The supplied file did not include verified project descriptions, technology mappings, screenshots, or repository metadata, so the cards intentionally avoid inventing those details.
+<sub>OQ PROJECT INDEX · SELECT A PROJECT CARD TO OPEN ITS GITHUB REPOSITORY</sub>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong>01 · Secure API Gateway</strong><br />
-      <sub>Repository listed in the source profile.</sub><br /><br />
+      <a href="https://github.com/Eng-Osama-Ali-Al-qudsi/secure-api-gateway">
+        <img src="https://img.shields.io/badge/PROJECT_01-SECURE_API_GATEWAY-101827?style=for-the-badge&logo=github&logoColor=39D98A" alt="Secure API Gateway project" />
+      </a>
+      <br /><br />
+      <strong>Secure API Gateway</strong><br />
+      <sub>Repository referenced in the supplied profile.</sub><br /><br />
       <a href="https://github.com/Eng-Osama-Ali-Al-qudsi/secure-api-gateway">OPEN REPOSITORY ↗</a>
     </td>
     <td width="50%" valign="top">
-      <strong>02 · Cyber Threat Hunter</strong><br />
-      <sub>Repository listed in the source profile.</sub><br /><br />
+      <a href="https://github.com/Eng-Osama-Ali-Al-qudsi/cyber-threat-hunter">
+        <img src="https://img.shields.io/badge/PROJECT_02-CYBER_THREAT_HUNTER-101827?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Cyber Threat Hunter project" />
+      </a>
+      <br /><br />
+      <strong>Cyber Threat Hunter</strong><br />
+      <sub>Repository referenced in the supplied profile.</sub><br /><br />
       <a href="https://github.com/Eng-Osama-Ali-Al-qudsi/cyber-threat-hunter">OPEN REPOSITORY ↗</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <strong>03 · Laravel AI-Driven Firewall</strong><br />
-      <sub>Repository listed in the source profile.</sub><br /><br />
+      <a href="https://github.com/Eng-Osama-Ali-Al-qudsi/laravel-ai-driven-firewall">
+        <img src="https://img.shields.io/badge/PROJECT_03-LARAVEL_AI_FIREWALL-101827?style=for-the-badge&logo=github&logoColor=39D98A" alt="Laravel AI-Driven Firewall project" />
+      </a>
+      <br /><br />
+      <strong>Laravel AI-Driven Firewall</strong><br />
+      <sub>Repository referenced in the supplied profile.</sub><br /><br />
       <a href="https://github.com/Eng-Osama-Ali-Al-qudsi/laravel-ai-driven-firewall">OPEN REPOSITORY ↗</a>
     </td>
     <td width="50%" valign="top">
-      <strong>04 · Dotfiles</strong><br />
-      <sub>Repository listed in the source profile.</sub><br /><br />
+      <a href="https://github.com/Eng-Osama-Ali-Al-qudsi/dotfiles">
+        <img src="https://img.shields.io/badge/PROJECT_04-DOTFILES-101827?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Dotfiles project" />
+      </a>
+      <br /><br />
+      <strong>Dotfiles</strong><br />
+      <sub>Repository referenced in the supplied profile.</sub><br /><br />
       <a href="https://github.com/Eng-Osama-Ali-Al-qudsi/dotfiles">OPEN REPOSITORY ↗</a>
     </td>
   </tr>
 </table>
+
+<sub>Project descriptions and technology mappings were not included in the supplied source, so no unsupported details or stack labels have been added.</sub>
 
 ## 05 / GITHUB STATISTICS
 
@@ -162,42 +265,149 @@ The snake animation is generated by the included GitHub Actions workflow and pub
 
 ## 07 / DEVELOPMENT PHILOSOPHY
 
+<p align="center">
+  <img src="https://img.shields.io/badge/OQ_ENGINEERING_STANDARD-THINK_%E2%80%A2_BUILD_%E2%80%A2_SECURE-101827?style=for-the-badge&logo=github&logoColor=39D98A" alt="OQ engineering standard" />
+</p>
+
 > **Good software is more than working code.**
 >
 > It should be secure by design, understandable to the next developer, maintainable over time, and useful to the people who depend on it.
 
-- **Security is a design requirement**, not a final checklist.
-- **Clarity beats unnecessary complexity.**
-- **Continuous learning** keeps engineering relevant.
-- **Open source** makes knowledge and improvement shareable.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>01 / SECURITY BY DESIGN</strong><br />
+      <sub>Security is a design requirement, not a final checklist.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <strong>02 / ENGINEERING CLARITY</strong><br />
+      <sub>Clarity beats unnecessary complexity.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>03 / CONTINUOUS LEARNING</strong><br />
+      <sub>Continuous learning keeps engineering relevant.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <strong>04 / OPEN COLLABORATION</strong><br />
+      <sub>Open source makes knowledge and improvement shareable.</sub>
+    </td>
+  </tr>
+</table>
 
 ## 08 / CURRENT FOCUS
 
-- Advanced penetration testing and ethical hacking.
-- Cloud security and infrastructure fundamentals.
-- AI-driven threat detection.
-- Reading and applying ideas from *Clean Code* and *The Web Application Hacker's Handbook*.
-- Working toward the OSCP and AWS security certification goals listed in the original profile.
+<sub>ACTIVE LEARNING & DEVELOPMENT TRACKS · AREAS OF FOCUS, NOT CLAIMS OF CERTIFICATION</sub>
+
+<table>
+  <tr>
+    <td width="12%" align="center"><strong>01</strong></td>
+    <td valign="top">
+      <strong>Cybersecurity Practice</strong><br />
+      Advanced penetration testing and ethical hacking.
+    </td>
+    <td width="22%" align="center">
+      <img src="https://img.shields.io/badge/FOCUS-SECURITY-101827?style=flat-square&logo=owasp&logoColor=39D98A" alt="Security focus" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>02</strong></td>
+    <td valign="top">
+      <strong>Cloud & Infrastructure</strong><br />
+      Cloud security and infrastructure fundamentals.
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/FOCUS-CLOUD-101827?style=flat-square&logo=amazonaws&logoColor=22D3EE" alt="Cloud focus" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>03</strong></td>
+    <td valign="top">
+      <strong>AI & Threat Detection</strong><br />
+      AI-driven threat detection.
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/FOCUS-ARTIFICIAL_INTELLIGENCE-101827?style=flat-square&logo=google&logoColor=22D3EE" alt="AI focus" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>04</strong></td>
+    <td valign="top">
+      <strong>Technical Reading</strong><br />
+      Reading and applying ideas from <em>Clean Code</em> and <em>The Web Application Hacker's Handbook</em>.
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/FOCUS-ENGINEERING-101827?style=flat-square&logo=bookstack&logoColor=39D98A" alt="Engineering reading focus" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>05</strong></td>
+    <td valign="top">
+      <strong>Certification Roadmap</strong><br />
+      Working toward the OSCP and AWS security certification goals listed in the original profile.
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/ROADMAP-OSCP_%2B_AWS-101827?style=flat-square&logo=amazonaws&logoColor=22D3EE" alt="OSCP and AWS roadmap" />
+    </td>
+  </tr>
+</table>
 
 ## 09 / CONNECT WITH ME
 
 <p align="center">
-  <a href="https://github.com/Eng-Osama-Ali-Al-qudsi">GitHub</a>
-  &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/engosamaali7">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://twitter.com/engosamaali7">X / Twitter</a>
-  &nbsp;·&nbsp;
-  <a href="https://t.me/engosamaali7">Telegram</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:engosamaali7@proton.me">Email</a>
+  <strong>LET'S BUILD SOMETHING MEANINGFUL.</strong><br />
+  <sub>Choose your preferred channel — each card opens the correct contact destination.</sub>
 </p>
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://wa.me/967780155801">
+        <img src="https://img.shields.io/badge/WHATSAPP-CHAT_NOW-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+      </a><br />
+      <strong>+967 780 155 801</strong>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <a href="mailto:engosamaali7@gmail.com">
+        <img src="https://img.shields.io/badge/GMAIL-SEND_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      </a><br />
+      <strong>engosamaali7@gmail.com</strong>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://t.me/OSAMAHWHW">
+        <img src="https://img.shields.io/badge/TELEGRAM-MESSAGE-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+      </a><br />
+      <strong>@OSAMAHWHW</strong>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://www.facebook.com/share/1CEkEFaJ8X/">
+        <img src="https://img.shields.io/badge/FACEBOOK-VISIT_PAGE-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+      </a><br />
+      <strong>OQ Developer on Facebook</strong>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://github.com/Eng-Osama-Ali-Al-qudsi/">
+        <img src="https://img.shields.io/badge/GITHUB-VIEW_PROFILE-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      </a><br />
+      <strong>Eng-Osama-Ali-Al-qudsi</strong>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://www.linkedin.com/in/eng-osama-ali-4773b3347?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+        <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a><br />
+      <strong>Eng. Osama Ali</strong>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <sub>Yemen · Arabic (Native) · English (Fluent)</sub>
+  <sub>Based in Yemen · Connect, collaborate, and build.</sub>
 </p>
-
----
 
 <p align="center">
   <strong>OQ DEVELOPER</strong><br />
