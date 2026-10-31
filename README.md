@@ -1,205 +1,250 @@
-
 <!--
-  OQ DEVELOPER — PROFILE README
-  Identity: Eng. Osama Ali
-  GitHub login: Eng-Osama-Ali-Al-qudsi
+  OQ DEVELOPER — NEXT GENERATION README
+  Owner: Eng. Osama Ali
+  Brand: OQ Developer
 -->
 
 <p align="center">
-  <img src="./assets/oq-hero.svg" alt="Eng. Osama Ali — OQ Developer" width="100%" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,12,20,24,30&text=Eng.%20Osama%20Ali&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38&desc=OQ%20Developer%20%7C%20Software%20Development%20%7C%20Cybersecurity%20%7C%20Artificial%20Intelligence&descAlignY=58&descSize=18"
+    width="100%"
+    alt="OQ Developer Hero Banner"
+  />
 </p>
 
 <p align="center">
-  <img src="./assets/oq-signal.gif" alt="OQ signal: Learn, Build, Secure" width="100%" />
+  <img src="./assets/oq-logo.jpg" width="180" alt="OQ Developer Logo" />
+</p>
+
+<h1 align="center">OQ Developer</h1>
+<h3 align="center">Eng. Osama Ali</h3>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00E6A8&center=true&vCenter=true&width=900&lines=Software+Development;Cybersecurity+Enthusiast;Artificial+Intelligence+Explorer;Open+Source+Learner;Building+Secure+and+Scalable+Solutions"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Eng-Osama-Ali-Al-qudsi">
-    <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=39D98A" alt="GitHub profile" />
+  <a href="https://github.com/Eng-Osama-Ali-Al-qudsi/">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E6A8" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/engosamaali7">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/eng-osama-ali-4773b3347?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00C8FF" alt="LinkedIn" />
   </a>
-  <a href="mailto:engosamaali7@proton.me">
-    <img src="https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=protonmail&logoColor=39D98A" alt="Email" />
+  <a href="https://wa.me/967780155801">
+    <img src="https://img.shields.io/badge/WhatsApp-780155801-0D1117?style=for-the-badge&logo=whatsapp&logoColor=00E676" alt="WhatsApp" />
   </a>
-  <a href="https://t.me/engosamaali7">
-    <img src="https://img.shields.io/badge/Telegram-Message-111827?style=for-the-badge&logo=telegram&logoColor=22D3EE" alt="Telegram" />
+  <a href="mailto:engosamaali7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-engosamaali7%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=FF5F5F" alt="Email" />
   </a>
+  <a href="https://t.me/OSAMAHWHW">
+    <img src="https://img.shields.io/badge/Telegram-@OSAMAHWHW-0D1117?style=for-the-badge&logo=telegram&logoColor=00C8FF" alt="Telegram" />
+  </a>
+  <a href="https://www.facebook.com/share/1CEkEFaJ8X/">
+    <img src="https://img.shields.io/badge/Facebook-Platform-0D1117?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Eng-Osama-Ali-Al-qudsi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Eng-Osama-Ali-Al-qudsi?label=Followers&style=flat&color=0D1117" alt="followers" />
 </p>
 
 ---
 
-## 01 / ABOUT ME
+# 01 / ABOUT ME
 
-I'm **Eng. Osama Ali**, the developer behind **OQ Developer** — an identity built around thoughtful software development, security-minded engineering, and continuous learning.
+I’m **Eng. Osama Ali**, the mind behind **OQ Developer** — a personal brand focused on **future-ready software development**, **cybersecurity awareness**, and **continuous technical growth**.
 
-I'm an **Information Technology student from Yemen**, interested in building secure, scalable applications and contributing to the open-source community. My learning interests include cybersecurity, ethical hacking, AI, and cloud technologies.
+I’m an **Information Technology student from Yemen**, passionate about building secure, scalable, and impactful digital solutions. My interests span across **Software Engineering**, **Web Development**, **Artificial Intelligence**, **Cybersecurity**, **Open Source**, and **Developer Tools**.
 
-> **Build with intent. Engineer with security in mind. Keep learning.**
+> **Design the future. Build with purpose. Secure with intelligence.**
 
-<p align="center">
-  <img src="./assets/oq-mark.svg" width="104" alt="OQ monogram" />
+---
+
+# 02 / CORE DOMAINS
+
+- **Software Engineering**
+- **Web Development**
+- **Mobile App Development**
+- **Artificial Intelligence**
+- **Cybersecurity**
+- **Open Source**
+- **Automation**
+- **Developer Tools**
+
+---
+
+# 03 / TECHNOLOGY STACK
+
+## Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=00E6A8" />
+  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00E6A8" />
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00E6A8" />
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00E6A8" />
+  <img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00E6A8" />
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=00E6A8" />
+  <img src="https://img.shields.io/badge/Shell-0D1117?style=for-the-badge&logo=gnubash&logoColor=00E6A8" />
 </p>
 
-## 02 / TECHNICAL EXPERTISE
+## Frameworks & Libraries
 
-**OQ focus domains:** Software Engineering · Web Development · Mobile App Development · Artificial Intelligence · Cybersecurity · Open Source · Automation · Developer Tools.
-
-<sub>These are the brand's focus and growth domains, not a claim of equal proficiency in every area.</sub>
-
-| Focus | Direction |
-|---|---|
-| **Software Development** | Building secure and scalable applications |
-| **Cybersecurity** | Ethical hacking and penetration-testing learning path |
-| **Artificial Intelligence** | Exploring AI-driven threat detection |
-| **Cloud Technologies** | Learning cloud platforms and cloud security |
-| **Open Source** | Interested in contributing to developer tools and community projects |
-
-## 03 / TECHNOLOGY STACK
-
-The technologies below are carried over from the supplied profile README. They are presented as a technology inventory, **not as proficiency rankings**.
-
-### Programming Languages
-
-![PHP](https://img.shields.io/badge/PHP-111827?style=flat-square&logo=php&logoColor=39D98A) ![Java](https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=39D98A) ![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=39D98A) ![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=39D98A) ![C++](https://img.shields.io/badge/C%2B%2B-111827?style=flat-square&logo=cplusplus&logoColor=39D98A) ![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=39D98A) ![Shell Script](https://img.shields.io/badge/Shell%20Script-111827?style=flat-square&logo=gnubash&logoColor=39D98A)
-
-### Frameworks & Libraries
-
-![Laravel](https://img.shields.io/badge/Laravel-111827?style=flat-square&logo=laravel&logoColor=39D98A) ![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=39D98A) ![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=39D98A) ![Django](https://img.shields.io/badge/Django-111827?style=flat-square&logo=django&logoColor=39D98A) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-111827?style=flat-square&logo=spring&logoColor=39D98A) ![Bootstrap](https://img.shields.io/badge/Bootstrap-111827?style=flat-square&logo=bootstrap&logoColor=39D98A) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-111827?style=flat-square&logo=tailwindcss&logoColor=39D98A)
-
-### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=39D98A) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=39D98A) ![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=39D98A) ![SQLite](https://img.shields.io/badge/SQLite-111827?style=flat-square&logo=sqlite&logoColor=39D98A) ![Redis](https://img.shields.io/badge/Redis-111827?style=flat-square&logo=redis&logoColor=39D98A)
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=39D98A) ![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=39D98A) ![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=39D98A) ![Kubernetes](https://img.shields.io/badge/Kubernetes-111827?style=flat-square&logo=kubernetes&logoColor=39D98A) ![AWS](https://img.shields.io/badge/AWS-111827?style=flat-square&logo=amazonaws&logoColor=39D98A) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-111827?style=flat-square&logo=googlecloud&logoColor=39D98A) ![Azure](https://img.shields.io/badge/Azure-111827?style=flat-square&logo=microsoftazure&logoColor=39D98A) ![Linux](https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=39D98A) ![Wireshark](https://img.shields.io/badge/Wireshark-111827?style=flat-square&logo=wireshark&logoColor=39D98A) ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-111827?style=flat-square&logo=burpsuite&logoColor=39D98A)
-
-### IDEs & Editors
-
-![VS Code](https://img.shields.io/badge/VS%20Code-111827?style=flat-square&logo=visualstudiocode&logoColor=39D98A) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-111827?style=flat-square&logo=intellijidea&logoColor=39D98A) ![PhpStorm](https://img.shields.io/badge/PhpStorm-111827?style=flat-square&logo=phpstorm&logoColor=39D98A) ![PyCharm](https://img.shields.io/badge/PyCharm-111827?style=flat-square&logo=pycharm&logoColor=39D98A) ![Vim](https://img.shields.io/badge/Vim-111827?style=flat-square&logo=vim&logoColor=39D98A)
-
-### Operating Systems
-
-![Linux Mint](https://img.shields.io/badge/Linux%20Mint-111827?style=flat-square&logo=linuxmint&logoColor=39D98A) ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-111827?style=flat-square&logo=kalilinux&logoColor=39D98A) ![Ubuntu](https://img.shields.io/badge/Ubuntu-111827?style=flat-square&logo=ubuntu&logoColor=39D98A) ![Windows](https://img.shields.io/badge/Windows-111827?style=flat-square&logo=windows&logoColor=39D98A)
-
-## 04 / FEATURED PROJECTS
-
-The following repositories were named in the original profile file. The supplied file did not include verified project descriptions, technology mappings, screenshots, or repository metadata, so the cards intentionally avoid inventing those details.
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>01 · Secure API Gateway</strong><br />
-      <sub>Repository listed in the source profile.</sub><br /><br />
-      <a href="https://github.com/Eng-Osama-Ali-Al-qudsi/secure-api-gateway">OPEN REPOSITORY ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <strong>02 · Cyber Threat Hunter</strong><br />
-      <sub>Repository listed in the source profile.</sub><br /><br />
-      <a href="https://github.com/Eng-Osama-Ali-Al-qudsi/cyber-threat-hunter">OPEN REPOSITORY ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>03 · Laravel AI-Driven Firewall</strong><br />
-      <sub>Repository listed in the source profile.</sub><br /><br />
-      <a href="https://github.com/Eng-Osama-Ali-Al-qudsi/laravel-ai-driven-firewall">OPEN REPOSITORY ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <strong>04 · Dotfiles</strong><br />
-      <sub>Repository listed in the source profile.</sub><br /><br />
-      <a href="https://github.com/Eng-Osama-Ali-Al-qudsi/dotfiles">OPEN REPOSITORY ↗</a>
-    </td>
-  </tr>
-</table>
-
-## 05 / GITHUB STATISTICS
-
-These cards request live public GitHub data. Their values are generated by the external services and are not hard-coded in this README.
-
-<p align="center">
-  <a href="https://github.com/Eng-Osama-Ali-Al-qudsi">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eng-Osama-Ali-Al-qudsi&theme=github_dark&animation=fade" alt="GitHub profile contribution summary" width="100%" />
-  </a>
+<p>
+  <img src="https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=00E6A8" />
+  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00E6A8" />
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=00E6A8" />
+  <img src="https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=00E6A8" />
+  <img src="https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge&logo=spring&logoColor=00E6A8" />
+  <img src="https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=00E6A8" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=00E6A8" />
 </p>
 
+## Databases
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00E6A8" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00E6A8" />
+  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=00E6A8" />
+  <img src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=00E6A8" />
+  <img src="https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=00E6A8" />
+</p>
+
+## Tools & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00E6A8" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E6A8" />
+  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00E6A8" />
+  <img src="https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=00E6A8" />
+  <img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=00E6A8" />
+  <img src="https://img.shields.io/badge/Google_Cloud-0D1117?style=for-the-badge&logo=googlecloud&logoColor=00E6A8" />
+  <img src="https://img.shields.io/badge/Azure-0D1117?style=for-the-badge&logo=microsoftazure&logoColor=00E6A8" />
+  <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00E6A8" />
+  <img src="https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=00E6A8" />
+  <img src="https://img.shields.io/badge/Burp_Suite-0D1117?style=for-the-badge&logo=burpsuite&logoColor=00E6A8" />
+</p>
+
+## IDEs & Editors
+
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=00E6A8" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-0D1117?style=for-the-badge&logo=intellijidea&logoColor=00E6A8" />
+  <img src="https://img.shields.io/badge/PhpStorm-0D1117?style=for-the-badge&logo=phpstorm&logoColor=00E6A8" />
+  <img src="https://img.shields.io/badge/PyCharm-0D1117?style=for-the-badge&logo=pycharm&logoColor=00E6A8" />
+  <img src="https://img.shields.io/badge/Vim-0D1117?style=for-the-badge&logo=vim&logoColor=00E6A8" />
+</p>
+
+## Operating Systems
+
+<p>
+  <img src="https://img.shields.io/badge/Linux_Mint-0D1117?style=for-the-badge&logo=linuxmint&logoColor=00E6A8" />
+  <img src="https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00E6A8" />
+  <img src="https://img.shields.io/badge/Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&logoColor=00E6A8" />
+  <img src="https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=00E6A8" />
+</p>
+
+---
+
+# 04 / GITHUB ANALYTICS
+
 <p align="center">
-  <a href="https://github.com/Eng-Osama-Ali-Al-qudsi">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eng-Osama-Ali-Al-qudsi&theme=github_dark&animation=fade" alt="GitHub statistics" width="49%" />
-  </a>
-  <a href="https://github.com/Eng-Osama-Ali-Al-qudsi">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eng-Osama-Ali-Al-qudsi&theme=github_dark&animation=fade" alt="Most used repository languages" width="49%" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eng-Osama-Ali-Al-qudsi&theme=github_dark" width="100%" alt="profile details" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Eng-Osama-Ali-Al-qudsi">
-    <img src="https://streak-stats.demolab.com?user=Eng-Osama-Ali-Al-qudsi&theme=dark&hide_border=true&background=0D1117&ring=39D98A&fire=22D3EE&currStreakLabel=39D98A&sideLabels=E6EDF3&dates=8B949E" alt="GitHub contribution streak and total contributions" width="82%" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eng-Osama-Ali-Al-qudsi&theme=github_dark" width="49%" alt="stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eng-Osama-Ali-Al-qudsi&theme=github_dark" width="49%" alt="top languages" />
 </p>
-
-## 06 / CONTRIBUTION ACTIVITY
 
 <p align="center">
-  <a href="https://github.com/Eng-Osama-Ali-Al-qudsi">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eng-Osama-Ali-Al-qudsi&bg_color=0d1117&color=e6edf3&line=39d98a&point=22d3ee&area=true&hide_border=true&custom_title=OQ%20%2F%20Contribution%20Activity" alt="GitHub contribution activity graph" width="100%" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=Eng-Osama-Ali-Al-qudsi&theme=dark&hide_border=true&background=0D1117&ring=00E6A8&fire=00C8FF&currStreakLabel=00E6A8&sideLabels=FFFFFF&dates=9CA3AF" width="80%" alt="GitHub Streak" />
 </p>
 
-### Contribution Snake
+---
 
-The snake animation is generated by the included GitHub Actions workflow and published to the `output` branch.
+# 05 / CONTRIBUTION ACTIVITY
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eng-Osama-Ali-Al-qudsi&bg_color=0d1117&color=ffffff&line=00E6A8&point=00C8FF&area=true&hide_border=true&custom_title=OQ%20Developer%20Contribution%20Graph" width="100%" alt="Contribution Graph" />
+</p>
+
+## Contribution Snake
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eng-Osama-Ali-Al-qudsi/OQ-Developer/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eng-Osama-Ali-Al-qudsi/OQ-Developer/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/Eng-Osama-Ali-Al-qudsi/OQ-Developer/output/github-snake.svg" alt="Animated GitHub contribution snake" width="100%" />
+    <img src="https://raw.githubusercontent.com/Eng-Osama-Ali-Al-qudsi/OQ-Developer/output/github-snake.svg" width="100%" alt="Contribution Snake" />
   </picture>
 </p>
 
-## 07 / DEVELOPMENT PHILOSOPHY
+---
 
-> **Good software is more than working code.**
->
+# 06 / DEVELOPMENT PHILOSOPHY
+
+> **Good software is more than working code.**  
 > It should be secure by design, understandable to the next developer, maintainable over time, and useful to the people who depend on it.
 
 - **Security is a design requirement**, not a final checklist.
 - **Clarity beats unnecessary complexity.**
-- **Continuous learning** keeps engineering relevant.
-- **Open source** makes knowledge and improvement shareable.
+- **Continuous learning keeps engineering relevant.**
+- **Open source makes knowledge and improvement shareable.**
 
-## 08 / CURRENT FOCUS
+---
+
+# 07 / CURRENT FOCUS
 
 - Advanced penetration testing and ethical hacking.
 - Cloud security and infrastructure fundamentals.
 - AI-driven threat detection.
-- Reading and applying ideas from *Clean Code* and *The Web Application Hacker's Handbook*.
-- Working toward the OSCP and AWS security certification goals listed in the original profile.
+- Software development with security-first thinking.
+- Continuous learning and open-source growth.
 
-## 09 / CONNECT WITH ME
+---
+
+# 08 / CONNECT WITH ME
 
 <p align="center">
-  <a href="https://github.com/Eng-Osama-Ali-Al-qudsi">GitHub</a>
-  &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/engosamaali7">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://twitter.com/engosamaali7">X / Twitter</a>
-  &nbsp;·&nbsp;
-  <a href="https://t.me/engosamaali7">Telegram</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:engosamaali7@proton.me">Email</a>
+  <a href="https://github.com/Eng-Osama-Ali-Al-qudsi/">
+    <img src="https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github&logoColor=00E6A8" />
+  </a>
+  <a href="https://www.linkedin.com/in/eng-osama-ali-4773b3347?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00C8FF" />
+  </a>
+  <a href="https://wa.me/967780155801">
+    <img src="https://img.shields.io/badge/WhatsApp-780155801-0D1117?style=for-the-badge&logo=whatsapp&logoColor=00E676" />
+  </a>
+  <a href="mailto:engosamaali7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-engosamaali7%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=FF5F5F" />
+  </a>
+  <a href="https://t.me/OSAMAHWHW">
+    <img src="https://img.shields.io/badge/Telegram-@OSAMAHWHW-0D1117?style=for-the-badge&logo=telegram&logoColor=00C8FF" />
+  </a>
+  <a href="https://www.facebook.com/share/1CEkEFaJ8X/">
+    <img src="https://img.shields.io/badge/Facebook-Platform-0D1117?style=for-the-badge&logo=facebook&logoColor=1877F2" />
+  </a>
 </p>
 
 <p align="center">
-  <sub>Yemen · Arabic (Native) · English (Fluent)</sub>
+  <strong>Location:</strong> Yemen &nbsp;•&nbsp;
+  <strong>Languages:</strong> Arabic, English
 </p>
 
 ---
 
 <p align="center">
-  <strong>OQ DEVELOPER</strong><br />
-  <sub>DESIGN THE FUTURE. BUILD THE NEXT GENERATION.</sub>
+  <b>OQ Developer</b><br>
+  <sub>Design the Future. Build the Next Generation.</sub>
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,12,20,24,30"
+    width="100%"
+    alt="footer"
+  />
 </p>
