@@ -1,7 +1,8 @@
+
 <!--
   OQ DEVELOPER — PROFILE README
   Identity: Eng. Osama Ali
-  GitHub login retained from the supplied source file: engosamaali7
+  GitHub login: Eng-Osama-Ali-Al-qudsi
 -->
 
 <p align="center">
@@ -13,8 +14,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/engosamaali7">
-    <img src="https://img.shields.io/badge/GitHub-engosamaali7-111827?style=for-the-badge&logo=github&logoColor=39D98A" alt="GitHub profile" />
+  <a href="https://github.com/Eng-Osama-Ali-Al-qudsi">
+    <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=39D98A" alt="GitHub profile" />
   </a>
   <a href="https://linkedin.com/in/engosamaali7">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn" />
@@ -60,21 +61,27 @@ I'm an **Information Technology student from Yemen**, interested in building sec
 The technologies below are carried over from the supplied profile README. They are presented as a technology inventory, **not as proficiency rankings**.
 
 ### Programming Languages
+
 ![PHP](https://img.shields.io/badge/PHP-111827?style=flat-square&logo=php&logoColor=39D98A) ![Java](https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=39D98A) ![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=39D98A) ![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=39D98A) ![C++](https://img.shields.io/badge/C%2B%2B-111827?style=flat-square&logo=cplusplus&logoColor=39D98A) ![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=39D98A) ![Shell Script](https://img.shields.io/badge/Shell%20Script-111827?style=flat-square&logo=gnubash&logoColor=39D98A)
 
 ### Frameworks & Libraries
+
 ![Laravel](https://img.shields.io/badge/Laravel-111827?style=flat-square&logo=laravel&logoColor=39D98A) ![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=39D98A) ![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=39D98A) ![Django](https://img.shields.io/badge/Django-111827?style=flat-square&logo=django&logoColor=39D98A) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-111827?style=flat-square&logo=spring&logoColor=39D98A) ![Bootstrap](https://img.shields.io/badge/Bootstrap-111827?style=flat-square&logo=bootstrap&logoColor=39D98A) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-111827?style=flat-square&logo=tailwindcss&logoColor=39D98A)
 
 ### Databases
+
 ![MySQL](https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=39D98A) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=39D98A) ![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=39D98A) ![SQLite](https://img.shields.io/badge/SQLite-111827?style=flat-square&logo=sqlite&logoColor=39D98A) ![Redis](https://img.shields.io/badge/Redis-111827?style=flat-square&logo=redis&logoColor=39D98A)
 
 ### Tools & Platforms
+
 ![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=39D98A) ![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=39D98A) ![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=39D98A) ![Kubernetes](https://img.shields.io/badge/Kubernetes-111827?style=flat-square&logo=kubernetes&logoColor=39D98A) ![AWS](https://img.shields.io/badge/AWS-111827?style=flat-square&logo=amazonaws&logoColor=39D98A) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-111827?style=flat-square&logo=googlecloud&logoColor=39D98A) ![Azure](https://img.shields.io/badge/Azure-111827?style=flat-square&logo=microsoftazure&logoColor=39D98A) ![Linux](https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=39D98A) ![Wireshark](https://img.shields.io/badge/Wireshark-111827?style=flat-square&logo=wireshark&logoColor=39D98A) ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-111827?style=flat-square&logo=burpsuite&logoColor=39D98A)
 
 ### IDEs & Editors
+
 ![VS Code](https://img.shields.io/badge/VS%20Code-111827?style=flat-square&logo=visualstudiocode&logoColor=39D98A) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-111827?style=flat-square&logo=intellijidea&logoColor=39D98A) ![PhpStorm](https://img.shields.io/badge/PhpStorm-111827?style=flat-square&logo=phpstorm&logoColor=39D98A) ![PyCharm](https://img.shields.io/badge/PyCharm-111827?style=flat-square&logo=pycharm&logoColor=39D98A) ![Vim](https://img.shields.io/badge/Vim-111827?style=flat-square&logo=vim&logoColor=39D98A)
 
 ### Operating Systems
+
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-111827?style=flat-square&logo=linuxmint&logoColor=39D98A) ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-111827?style=flat-square&logo=kalilinux&logoColor=39D98A) ![Ubuntu](https://img.shields.io/badge/Ubuntu-111827?style=flat-square&logo=ubuntu&logoColor=39D98A) ![Windows](https://img.shields.io/badge/Windows-111827?style=flat-square&logo=windows&logoColor=39D98A)
 
 ## 04 / FEATURED PROJECTS
@@ -86,24 +93,24 @@ The following repositories were named in the original profile file. The supplied
     <td width="50%" valign="top">
       <strong>01 · Secure API Gateway</strong><br />
       <sub>Repository listed in the source profile.</sub><br /><br />
-      <a href="https://github.com/engosamaali7/secure-api-gateway">OPEN REPOSITORY ↗</a>
+      <a href="https://github.com/Eng-Osama-Ali-Al-qudsi/secure-api-gateway">OPEN REPOSITORY ↗</a>
     </td>
     <td width="50%" valign="top">
       <strong>02 · Cyber Threat Hunter</strong><br />
       <sub>Repository listed in the source profile.</sub><br /><br />
-      <a href="https://github.com/engosamaali7/cyber-threat-hunter">OPEN REPOSITORY ↗</a>
+      <a href="https://github.com/Eng-Osama-Ali-Al-qudsi/cyber-threat-hunter">OPEN REPOSITORY ↗</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <strong>03 · Laravel AI-Driven Firewall</strong><br />
       <sub>Repository listed in the source profile.</sub><br /><br />
-      <a href="https://github.com/engosamaali7/laravel-ai-driven-firewall">OPEN REPOSITORY ↗</a>
+      <a href="https://github.com/Eng-Osama-Ali-Al-qudsi/laravel-ai-driven-firewall">OPEN REPOSITORY ↗</a>
     </td>
     <td width="50%" valign="top">
       <strong>04 · Dotfiles</strong><br />
       <sub>Repository listed in the source profile.</sub><br /><br />
-      <a href="https://github.com/engosamaali7/dotfiles">OPEN REPOSITORY ↗</a>
+      <a href="https://github.com/Eng-Osama-Ali-Al-qudsi/dotfiles">OPEN REPOSITORY ↗</a>
     </td>
   </tr>
 </table>
@@ -113,31 +120,31 @@ The following repositories were named in the original profile file. The supplied
 These cards request live public GitHub data. Their values are generated by the external services and are not hard-coded in this README.
 
 <p align="center">
-  <a href="https://github.com/engosamaali7">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=engosamaali7&theme=github_dark&animation=fade" alt="GitHub profile contribution summary" width="100%" />
+  <a href="https://github.com/Eng-Osama-Ali-Al-qudsi">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eng-Osama-Ali-Al-qudsi&theme=github_dark&animation=fade" alt="GitHub profile contribution summary" width="100%" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/engosamaali7">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=engosamaali7&theme=github_dark&animation=fade" alt="GitHub statistics" width="49%" />
+  <a href="https://github.com/Eng-Osama-Ali-Al-qudsi">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eng-Osama-Ali-Al-qudsi&theme=github_dark&animation=fade" alt="GitHub statistics" width="49%" />
   </a>
-  <a href="https://github.com/engosamaali7">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=engosamaali7&theme=github_dark&animation=fade" alt="Most used repository languages" width="49%" />
+  <a href="https://github.com/Eng-Osama-Ali-Al-qudsi">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eng-Osama-Ali-Al-qudsi&theme=github_dark&animation=fade" alt="Most used repository languages" width="49%" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/engosamaali7">
-    <img src="https://streak-stats.demolab.com?user=engosamaali7&theme=dark&hide_border=true&background=0D1117&ring=39D98A&fire=22D3EE&currStreakLabel=39D98A&sideLabels=E6EDF3&dates=8B949E" alt="GitHub contribution streak and total contributions" width="82%" />
+  <a href="https://github.com/Eng-Osama-Ali-Al-qudsi">
+    <img src="https://streak-stats.demolab.com?user=Eng-Osama-Ali-Al-qudsi&theme=dark&hide_border=true&background=0D1117&ring=39D98A&fire=22D3EE&currStreakLabel=39D98A&sideLabels=E6EDF3&dates=8B949E" alt="GitHub contribution streak and total contributions" width="82%" />
   </a>
 </p>
 
 ## 06 / CONTRIBUTION ACTIVITY
 
 <p align="center">
-  <a href="https://github.com/engosamaali7">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=engosamaali7&bg_color=0d1117&color=e6edf3&line=39d98a&point=22d3ee&area=true&hide_border=true&custom_title=OQ%20%2F%20Contribution%20Activity" alt="GitHub contribution activity graph" width="100%" />
+  <a href="https://github.com/Eng-Osama-Ali-Al-qudsi">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eng-Osama-Ali-Al-qudsi&bg_color=0d1117&color=e6edf3&line=39d98a&point=22d3ee&area=true&hide_border=true&custom_title=OQ%20%2F%20Contribution%20Activity" alt="GitHub contribution activity graph" width="100%" />
   </a>
 </p>
 
@@ -147,9 +154,9 @@ The snake animation is generated by the included GitHub Actions workflow and pub
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/engosamaali7/engosamaali7/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/engosamaali7/engosamaali7/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/engosamaali7/engosamaali7/output/github-snake.svg" alt="Animated GitHub contribution snake" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eng-Osama-Ali-Al-qudsi/OQ-Developer/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eng-Osama-Ali-Al-qudsi/OQ-Developer/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Eng-Osama-Ali-Al-qudsi/OQ-Developer/output/github-snake.svg" alt="Animated GitHub contribution snake" width="100%" />
   </picture>
 </p>
 
@@ -175,7 +182,7 @@ The snake animation is generated by the included GitHub Actions workflow and pub
 ## 09 / CONNECT WITH ME
 
 <p align="center">
-  <a href="https://github.com/engosamaali7">GitHub</a>
+  <a href="https://github.com/Eng-Osama-Ali-Al-qudsi">GitHub</a>
   &nbsp;·&nbsp;
   <a href="https://linkedin.com/in/engosamaali7">LinkedIn</a>
   &nbsp;·&nbsp;
